@@ -25,3 +25,19 @@
 
 [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)
 > Unofficial Windows C#
+
+## VK
+[PhoenixDevTeam/Phoenix-for-VK](https://github.com/PhoenixDevTeam/Phoenix-for-VK)
+> Unofficial Android Java
+
+[TwoEightNine/XVII](https://github.com/TwoEightNine/XVII)
+> Unofficial Android Kotlin (Encrypted)
+
+[euphoriadev/euphoria-vk-client](https://github.com/euphoriadev/euphoria-vk-client)
+> Unofficial Android Java (Encrypted)
+
+[CasperNEw/VK-Client](https://github.com/CasperNEw/VK-Client)
+> Unofficial iOS Swift
+
+[danyadev/vk-desktop](https://github.com/danyadev/vk-desktop)
+> Unofficial Desktop Vue
